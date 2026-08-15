@@ -1,0 +1,6 @@
+# Définition du thème visuel Streamlit via le fichier de configuration TOML
+
+[theme]  # Section de configuration du thème
+base="dark"  # Thème clair par défaut
+primaryColor="#0F766E"  # Couleur principale (boutons, liens, etc.)
+font="sans serif"  # Police d’écriture utilisée dans l’interface
